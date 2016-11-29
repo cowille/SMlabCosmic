@@ -40,6 +40,10 @@ public class CountActivity extends Activity {
         countFP();
     }
 
+    /**
+     * Coming soon
+     */
+
     public void onClickBtnAddEntry(View view) {
 
         int entry = mApplication.getValue(itemName, 0);
