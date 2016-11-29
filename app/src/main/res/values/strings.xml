@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SMlabCosmic</string>
+    <string name="hintTxtItem">New Projekt</string>
+    <string name="btnAddEntry">Add Entry</string>
+    <string name="btnAddExit">Add Exit</string>
+    <string name="btnAddRead">Add Read</string>
+    <string name="btnAddWrite">Add Write</string>
+
+    <string name="btnSubEntry">Sub Entry</string>
+    <string name="btnSubExit">Sub Exit</string>
+    <string name="btnSubRead">Sub Read</string>
+    <string name="btnSubWrite">Sub Write</string>
+
+    <string name="btnDel">Delete Project</string>
+    <string name="txtEmpty">List is empty</string>
+    <string name="title_activity_count">CountActivity</string>
+    <string name="btnHelp">Help</string>
+    <string name="name_label">Die aktuellen Cosmic Funcion Points sind:</string>
+
+    <string name="txtAppHeading">SmLap Cosmic Count App</string>
+
+    <string name="VALUE_TO_SMALL">Der Wert kann nicht kleiner als 0 werden.</string>
+    <string name="SECURITY_QUERY">Sicherheitsabfrage</string>
+    <string name="PROJECT_DELETION">Wollen Sie das Projekt und alles seine Daten unwiederruflich löschen?</string>
+    <string name="PROJECT_EXIST">Der Projektname existiert schon. Bitte wählen Sie einen anderen.</string>
+    <string name="PROJECT_NAME_EMPTY">Bitte geben Sie einen Projektnamen ein.</string>
+    <string name="PROJECT_TO_DELETE">Bitte wählen Sie das zu löschende Projekt aus.</string>
+</resources>
